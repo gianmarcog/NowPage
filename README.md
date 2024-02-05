@@ -1,3 +1,3 @@
 # NowPage
-This NowPage got created with the repository from NickCulbertson
+This NowPage got created with the template from NickCulbertson
 https://github.com/NickCulbertson/Now-Page-Template
